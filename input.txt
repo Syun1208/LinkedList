@@ -1,0 +1,26 @@
+2
+Pham Long
+Nam
+12 08 2001
+FHQ
+HeMUTE
+8.5
+2019
+
+3
+Nguyen Vu
+Nam
+12 08 2001
+FHQ
+HeMUTE
+1.0
+2019
+
+9
+The Son
+Nam
+12 06 2001
+FHQ
+UIT
+6.3
+2019

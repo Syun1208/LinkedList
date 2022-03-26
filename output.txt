@@ -1,0 +1,30 @@
+ID Student: 0
+First name: 
+Last name: 
+Gentle: 
+Birthday: 0/0/0
+Faculty: 
+School: 
+GPA: 0.000000
+Study Year: 0
+
+ID Student: 2
+First name: Pham
+Last name: Long
+Gentle: Nam
+Birthday: 12/8/2001
+Faculty: FHQ
+School: HeMUTE
+GPA: 8.500000
+Study Year: 2019
+
+ID Student: 3
+First name: Nguyen
+Last name: Vu
+Gentle: Nam
+Birthday: 12/8/2001
+Faculty: FHQ
+School: HeMUTE
+GPA: 1.000000
+Study Year: 2019
+
